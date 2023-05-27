@@ -13,4 +13,15 @@ import org.junit.runner.RunWith;
         dryRun   = false
 )
 public class Runner {
+    /*
+    Cucumber'da Runner Class'i istedigimiz testleri calistirmak
+        ve her calistirilan test icin rapor hazirlamak amaciyla kullanilir
+        Runner Class'i bos bir Class'dir
+        Belirtilen bu isleri
+        class icerisindeki kodlar degil
+        class deklarasyonunda kullanacagimiz Notasyonlar halleder
+        @RunWith notasyonu framework'umuze JUnit yuklememizin sebebidir
+                 ve Runner Class'inin cucumber ile calismasini saglar
+        @CucumberOptions ise framework'umuzde gerekli ayarlari yapar
+     */
 }
