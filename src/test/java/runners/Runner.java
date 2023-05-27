@@ -24,4 +24,8 @@ public class Runner {
                  ve Runner Class'inin cucumber ile calismasini saglar
         @CucumberOptions ise framework'umuzde gerekli ayarlari yapar
      */
+
+    // features : feature dosyalarimizin bulundugu konumu gosterir
+    //                   dikkat edilirse tek tek feature dosyalarini degil
+    //                   tum feature dosyalarini iceren klasorun yolunu yaziyoruz
 }
