@@ -28,4 +28,13 @@ public class Runner {
     // features : feature dosyalarimizin bulundugu konumu gosterir
     //                   dikkat edilirse tek tek feature dosyalarini degil
     //                   tum feature dosyalarini iceren klasorun yolunu yaziyoruz
+
+    /*
+    glue : feature dosyalari ile bagli olan
+               Java method'larinin yerini gosterir
+               Burada da tek tek class'lari degil,
+               tum class'lari iceren package'in adresini yazariz
+               boylece ilgili step hangi class altinda olursa olsun
+               cucumber bulup calistirir
+     */
 }
