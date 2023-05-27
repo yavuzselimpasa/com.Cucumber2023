@@ -37,4 +37,12 @@ public class Runner {
                boylece ilgili step hangi class altinda olursa olsun
                cucumber bulup calistirir
      */
+
+    //tags : calistirilacak Feature veya Scenerio(lari) isaretlemek icin kullanilir
+    //               Cucumber Runner class'i calistirildiginda
+    //               tum feature dosyalarini gozden gecirir ve
+    //               Runner class'inda belirtilen tag'a sahip
+    //               TUM Fature ve Scenario(lari) calistirir
+    //               Eger birden fazla tag'i kontrol ederek calistirmasini istersek
+    //               "@regression or @smoke" veya "@regression and @smoke" gibi yazabiliriz
 }
