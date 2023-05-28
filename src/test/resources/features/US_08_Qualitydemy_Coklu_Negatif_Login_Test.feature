@@ -1,6 +1,6 @@
 Feature: US_08 Toplu kullanici listesi ile negatif login testi
 
-
+@qd
   Scenario Outline: TestCase14 Kullanici listedeki kullanici bilgileri ile giris yapilamadigini test eder
 
     Given Kullanici "qdUrl" anasayfaya gider
