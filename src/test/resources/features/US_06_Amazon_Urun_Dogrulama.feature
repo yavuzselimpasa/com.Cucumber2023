@@ -1,5 +1,5 @@
 Feature: US_06 Amazonda aranan urun dogrulamasi
-  @y
+
   Scenario: TestCase_12 Aranan urunun dogru oldugu test edilebilmeli
 
     Given Kullanici "amazonUrl" anasayfaya gider
