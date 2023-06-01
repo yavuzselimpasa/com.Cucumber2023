@@ -12,8 +12,9 @@ Feature: US_08 Toplu kullanici listesi ile negatif login testi
     And Sayfayi kapatir
 
     Examples:
-      | email       | password  |
-      |abc@gmail.com|12345es      |
-      |ded@gmail.com|65743ed      |
-      |vdem@gmail.com|3214de567    |
+      | email        | password     |
+      |abc@gmail.com |12345es       |
+      |ded@gmail.com |65743ed       |
+      |vdem@gmail.com|3214de567     |
       |zqaz@gmail.com|jsedava12     |
+      |xxx@gmail.com |xx123.2       |
