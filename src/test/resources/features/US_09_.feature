@@ -1,3 +1,3 @@
 Feature: US_09 paralel
 
-  Scenario:
+  Scenario:kullanici bilgileri ile giris
