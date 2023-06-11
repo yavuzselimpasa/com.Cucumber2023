@@ -7,3 +7,5 @@ Feature: US_09 paralel
     And user email olarak "<email>" girer
     And password olarak "<password>" girer
     When login butonuna basar
+    Then giris yapilamadigini test eder
+    g
