@@ -8,4 +8,4 @@ Feature: US_09 paralel
     And password olarak "<password>" girer
     When login butonuna basar
     Then giris yapilamadigini test eder
-    g
+    And Sayfayi kapatir
