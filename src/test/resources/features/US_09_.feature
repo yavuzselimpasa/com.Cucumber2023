@@ -1,6 +1,6 @@
 Feature: US_09 paralel
 
-  Scenario:kullanici bilgileri ile giris
+ Scenario Outline:kullanici bilgileri ile giris
 
     Given Kullanici "qdUrl" anasayfaya gider
     Then ilk login linkine click yapar
@@ -11,3 +11,4 @@ Feature: US_09 paralel
     And Sayfayi kapatir
 
     Examples:
+      | email        | password     |
