@@ -9,3 +9,5 @@ Feature: US_09 paralel
     When login butonuna basar
     Then giris yapilamadigini test eder
     And Sayfayi kapatir
+
+    Examples:
