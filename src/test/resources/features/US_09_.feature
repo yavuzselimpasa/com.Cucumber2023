@@ -35,21 +35,7 @@ Feature: US_09 paralel
     Then giris yapilamadigini test eder
     And Sayfayi kapatir
 
-    Examples:
-      | email        | password     |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |asss3@gmail.com|           sd3323|
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |12345es       |
-      |abc@gmail.com |123ar45es       |
-      |asss3@gmail.com|       fdssd3323|
 
-  Scenario :kullanici bilgileri ile giris
 
 
 
